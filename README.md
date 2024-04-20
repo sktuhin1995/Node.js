@@ -1,2 +1,2 @@
 # Node.js
- This is html chat service with node.js.
+ This project was created using Node Js. The purpose of this project to live chat with others.
